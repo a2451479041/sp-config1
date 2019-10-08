@@ -19,12 +19,14 @@ eureka:
 
 
 ---
+
 spring: 
   profiles: item1 
 server: 
   port: 8001 
   
 --- 
+
 spring: 
   profiles: item2 
 server: 
